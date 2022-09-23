@@ -3,17 +3,6 @@
 <!--
 **ipshagupta/ipshagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 * 😄 Pronouns: she/her
 * :book: I am studyng Computer Science at Amity University, class od 2024.
@@ -21,6 +10,11 @@ Here are some ideas to get you started:
 * ⚡ Love reading books, travelling, coffee, and want to go skydiving one day!
 * 🖥 You can access all my projects and codes here on Github.
 * 💬 Always welcome collaboration, feel free to connect with me!
+
+### Recent Activity :zap:
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 ### ⬆ My Github Stats
