@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<!--
-**ipshagupta/ipshagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 * 😄 Pronouns: she/her
@@ -11,10 +9,6 @@
 * 🖥 You can access all my projects and codes here on Github.
 * 💬 Always welcome collaboration, feel free to connect with me!
 
-### Recent Activity :zap:
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 
 ### ⬆ My Github Stats
