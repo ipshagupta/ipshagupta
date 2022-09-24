@@ -3,7 +3,7 @@
 
 
 * 😄 Pronouns: she/her
-* :book: I am studyng Computer Science at Amity University, class od 2024.
+* :book: I am studyng Computer Science at Amity University, class of 2024.
 * 🌱 Currently learning web development and web design.
 * ⚡ Love reading books, travelling, coffee, and want to go skydiving one day!
 * 🖥 You can access all my projects and codes here on Github.
